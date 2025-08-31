@@ -288,6 +288,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - SHAP and LIME developers for XAI tools
 - Open source community for ML/DL libraries
 
+## 📜 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+
 ## 📞 Contact
 
 For questions or support:
